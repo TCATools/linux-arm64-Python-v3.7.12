@@ -1,0 +1,3 @@
+[console_scripts]
+semgrep = semgrep.__main__:main
+

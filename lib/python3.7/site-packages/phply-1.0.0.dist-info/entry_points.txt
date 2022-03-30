@@ -1,0 +1,4 @@
+[console_scripts]
+phplex = phply.phplex:run_on_argv1
+phpparse = phply.phpparse:main
+

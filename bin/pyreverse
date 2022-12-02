@@ -1,4 +1,4 @@
-#!/usr/local/python3/bin/python3.7
+#!/data/linux-arm64-Python-v3.7.12/bin/python3.7
 
 # -*- coding: utf-8 -*-
 import re
